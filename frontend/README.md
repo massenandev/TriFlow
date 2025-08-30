@@ -35,7 +35,6 @@ A comprehensive triathlon training application that combines AI-powered training
    ```
 
 2. **Environment Variables**
-   Create a `.env.local` file:
    ```env
    NEXT_PUBLIC_API_URL=http://localhost:3001/api
    BACKEND_URL=http://localhost:3001
